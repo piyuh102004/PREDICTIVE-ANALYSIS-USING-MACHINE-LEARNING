@@ -1,19 +1,5 @@
 # Predictive Analysis Using Machine Learning
 
-*COMPANY*:  CODTECH IT SOLUTIONS
-
-*NAME*:  PIYUSH SINGH
-
-*INTERN ID*:  CT08TUM
-
-*DOMAIN*:  DATA ANALYTICS
-
-*DURATION*:  4 WEEKS
-
-*MENTOR*:  NEELA SANTOSH
-
-
-
 This repository contains a Jupyter Notebook that demonstrates how to build a machine learning model to predict outcomes based on a dataset. The model uses a Random Forest Classifier and includes steps for data loading, preprocessing, feature selection, model training, evaluation, hyperparameter tuning, and saving the model.
 
 ## Getting Started
